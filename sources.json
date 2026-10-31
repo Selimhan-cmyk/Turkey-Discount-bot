@@ -1,0 +1,8 @@
+{
+  "sources": [
+    {"key": "amazon-tr", "name": "Amazon Türkiye", "url": "https://www.amazon.com.tr/gp/goldbox"},
+    {"key": "trendyol", "name": "Trendyol", "url": "https://www.trendyol.com/"},
+    {"key": "hepsiburada", "name": "Hepsiburada", "url": "https://www.hepsiburada.com/kampanyalar"},
+    {"key": "n11", "name": "n11", "url": "https://www.n11.com/"}
+  ]
+}
